@@ -1,2 +1,2 @@
 # Javascript-Racing-Game
-![](.gif)
+![](demo.gif)
